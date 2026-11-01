@@ -13,6 +13,7 @@
 ### ☁️ Hosting & Deployment
 ![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
 ### 🎨 Graphic Design & Digital Art
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge)
