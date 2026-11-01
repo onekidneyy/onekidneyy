@@ -17,12 +17,11 @@
 ### 🎨 Graphic Design & Digital Art
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/adobe.svg" width="22" height="22" alt="Adobe"> ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge)
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/adobecreativecloud.svg" width="22" height="22" alt="Creative Cloud"> ![Adobe Creative Cloud](https://img.shields.io/badge/Creative_Cloud-DA1F26?style=for-the-badge)
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/adobeindesign.svg" width="22" height="22" alt="InDesign"> ![Adobe InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" width="22" height="22" alt="Illustrator"> ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="22" height="22" alt="Photoshop"> ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="22" height="22" alt="Adobe XD"> ![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge)
-<img src="https://www.clipstudio.net/view/img/common/main_visual/top_main_CSP_logo_bk.svg" width="55" height="22" alt="Clip Studio Paint"> ![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-555555?style=for-the-badge)
-
+![Photoshop](assets/badges/photoshop.svg)
+![Illustrator](assets/badges/illustrator.svg)
+![InDesign](assets/badges/indesign.svg)
+![Adobe XD](assets/badges/adobe-xd.svg)
+![Clip Studio Paint](assets/badges/clip-studio.svg)
 ### 🎮 3D & Game Development
 ![Blender](https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
