@@ -15,8 +15,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🎨 Graphic Design & Digital Art
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/adobe.svg" width="22" height="22" alt="Adobe"> ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge)
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@13.13.0/icons/adobecreativecloud.svg" width="22" height="22" alt="Creative Cloud"> ![Adobe Creative Cloud](https://img.shields.io/badge/Creative_Cloud-DA1F26?style=for-the-badge)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge)
+![Adobe Creative Cloud](https://img.shields.io/badge/Creative_Cloud-DA1F26?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge)
 ![Illustrator](https://img.shields.io/badge/Illustrator-330000?style=for-the-badge)
 ![InDesign](https://img.shields.io/badge/InDesign-49021F?style=for-the-badge)
